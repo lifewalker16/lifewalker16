@@ -7,7 +7,6 @@
 ### 🧠 About Me  
 - 🌐 Interested in **Web Development** and **Artificial Intelligence / Machine Learning**  
 - 💻 Passionate about creating end-to-end digital solutions  
-- 🔭 Worked on: **Hostel Mess Management System App**  
 - ⚙️ Exploring integration of **IoT and AI** for smart automation  
 - 🧩 Always experimenting with new tech and learning by building  
 
@@ -53,7 +52,7 @@
 
 ### 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/_sunny__.16)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
 
 ---
