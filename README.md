@@ -50,9 +50,9 @@
 
 ---
 
-### 📬 Connect with Me  
+ 
 <div align="center">
-
+### 📬 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername) 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/_sunny__.16) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
