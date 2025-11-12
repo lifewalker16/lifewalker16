@@ -39,16 +39,28 @@
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lifewalker16&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lifewalker16&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats & Achievements
+<div align="center">
+
+<a href="https://github.com/lifewalker16">
+  <img src="https://github-readme-stats.vercel.app/api?username=lifewalker16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifewalker16&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+</a>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=lifewalker16&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true&row=1" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=lifewalker16&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
----
+✨ *These stats update automatically — reflecting my latest GitHub activity, languages, and achievements!* ✨
+
+</div>
+
 
  ### 📬 Connect with Me 
 <div align="center">
