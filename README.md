@@ -55,12 +55,6 @@
 
 ---
 
-<div align="center">
-
-✨ *These stats update automatically — reflecting my latest GitHub activity, languages, and achievements!* ✨
-
-</div>
-
 
  ### 📬 Connect with Me 
 <div align="center">
