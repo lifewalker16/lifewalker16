@@ -8,7 +8,10 @@
 - 🌱 I’m currently learning **AI/ML** and **Web Development**
 - 💡 I enjoy solving problems and building real-world projects
 - 🔭 I’ve worked on: Hostel Mess Management System, Sorting Algorithms, etc.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me:<p align="left">
+  <a href="https://instagram.com/_sunny__.16" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:sunnycardoso750@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
