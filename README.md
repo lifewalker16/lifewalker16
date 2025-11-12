@@ -41,13 +41,13 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lifewalker16&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lifewalker16&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lifewalker16&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
